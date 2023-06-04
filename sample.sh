@@ -5,4 +5,5 @@ echo "This is a change from Github"
 echo "This is a stash lab"
 echo "I am doing a lab for Branch"
 echo "Git Rebase"
+echo "I am in Git Branch br1"
 
